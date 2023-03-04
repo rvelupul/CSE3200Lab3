@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecylerViewYT</string>
+
+    <!-- Headings -->
+    <string name="head_1">President Biden aims to expand vaccines for adults and children</string>
+    <string name="head_2">Just got my first Covid-19 shot, helping the world to be a safer place</string>
+    <string name="head_3">Latest change to Metro North train services</string>
+    <string name="head_4">Steps to take to prevent fire hazards from becoming a major issue</string>
+    <string name="head_5">Australian citizen sues Prime Minister over flight ban</string>
+    <string name="head_7">How to keep you and your family safe from Covid-19</string>
+    <string name="head_9">Trillions of cicadas set to emerge in the US, here\'s why</string>
+
+
+</resources>
